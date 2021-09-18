@@ -1,0 +1,12 @@
+
+.image{
+    margin-left: 150px;
+}
+.btn{
+    border: 3px solid black;
+}
+.btn:hover{
+background-color: black;
+
+}
+
